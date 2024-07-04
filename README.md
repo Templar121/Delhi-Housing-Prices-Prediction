@@ -8,3 +8,6 @@ The Dataset collected from Kaggle is first subjected to data cleaning and pre-pr
 
 
 ![actual vs predicted](https://github.com/Templar121/Delhi-Housing-Prices-Prediction/assets/128389961/7e17e0ea-7801-4364-accb-dea63feb07d4)
+
+## References 
+1. https://www.kaggle.com/datasets/bhavyadhingra00020/india-rental-house-price
